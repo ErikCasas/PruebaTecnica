@@ -1,7 +1,9 @@
 ## Ecomerce-prueba-tecnica
 
+<img  alt="Coding" width="400" src="https://github.com/ErikCasas/PruebaTecnica/blob/master/Files/Captura%20de%20pantalla%202023-02-15%20081756.png?raw=true">
 
-<em> # Preuba tecnica Ecommerce Supermercado  </em>
+
+<em> #Preuba tecnica Ecommerce Supermercado  </em>
 
 Esta es una prueba Tecnica echa para la empresa Osnet, se tuvo un plazo de una semana para ser realizada, esta prueba es basada en el stack MERN 
 
@@ -17,7 +19,6 @@ El proyecto debía ser de un inventario de supermercado, en el que tiene que ser
 ## :hammer:Entrega final y funcionalidades del proyecto
 
 - `Funcionalidad 1`: Se creo un sistema de logueo local con peticiones al back-end y verificaciones en el front-end
-img
 - `Funcionalidad 2`: Se tiene un sistema de ruteo para los tres tipos de ususarios contemplados, no logueado, logueado y master
 - `Funcionalidad 3`: Se tiene un sistema de redireccionamiento que evita que usuarios no logueados o usuarios sin acceso master, accedan a ciertas rutas de funcionalidades para el master
 - `Funcionalidad 4`: Se tiene un total de 8 formularios con distinto enfoque, tales como dejar que se cree un nuevo usuario, que un usuario de tipo read sea capaz de cambiar su información, junto con los 4 principales, que son la edición y creaciión de productos y usuarios por parte de los usuarios master- 
@@ -26,6 +27,18 @@ img
 -  `Funcionaliad 6`: Se utilizó la tecnologia de cloudinary para que el usuario master quien tiene la capacidad de editar y crear, pueda utilizar archivos directos de su pc
 
 -  `Funcionalidad 7`: la pagina es en su gran mayoria de tipo responsive
+
+#previsualización del proyecto 
+
+<img align="center" alt="Coding" width="300" src="https://github.com/ErikCasas/PruebaTecnica/blob/master/Files/Captura%20de%20pantalla%202023-02-15%20081908.png?raw=true">
+<img align="center" alt="Coding" width="300" src="https://github.com/ErikCasas/PruebaTecnica/blob/master/Files/Captura%20de%20pantalla%202023-02-15%20081948.png?raw=true">
+<img align="center" alt="Coding" width="300" src="https://github.com/ErikCasas/PruebaTecnica/blob/master/Files/Captura%20de%20pantalla%202023-02-15%20082244.png?raw=true">
+<img alt="Coding" width="300" src="https://github.com/ErikCasas/PruebaTecnica/blob/master/Files/Captura%20de%20pantalla%202023-02-15%20082356.png?raw=true">
+<img alt="Coding" width="300" src="https://github.com/ErikCasas/PruebaTecnica/blob/master/Files/Captura%20de%20pantalla%202023-02-15%20082322.png?raw=true">
+<img alt="Coding" width="300" src="https://github.com/ErikCasas/PruebaTecnica/blob/master/Files/Captura%20de%20pantalla%202023-02-15%20082958.png?raw=true">
+
+<img  alt="Coding" width="300" src="https://github.com/ErikCasas/PruebaTecnica/blob/master/Files/Captura%20de%20pantalla%202023-02-15%20081756.png?raw=true">
+<img  alt="Coding" width="300" src="https://github.com/ErikCasas/PruebaTecnica/blob/master/Files/Captura%20de%20pantalla%202023-02-15%20081756.png?raw=true">
 
 
 # Probar el proyecto
