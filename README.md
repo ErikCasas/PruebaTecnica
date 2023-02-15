@@ -29,17 +29,18 @@ El proyecto debía ser de un inventario de supermercado, en el que tiene que ser
 -  `Funcionalidad 7`: la pagina es en su gran mayoria de tipo responsive
 
 #previsualización del proyecto 
+<div>
 
 <img align="center" alt="Coding" width="300" src="https://github.com/ErikCasas/PruebaTecnica/blob/master/Files/Captura%20de%20pantalla%202023-02-15%20081908.png?raw=true">
 <img align="center" alt="Coding" width="300" src="https://github.com/ErikCasas/PruebaTecnica/blob/master/Files/Captura%20de%20pantalla%202023-02-15%20081948.png?raw=true">
 <img align="center" alt="Coding" width="300" src="https://github.com/ErikCasas/PruebaTecnica/blob/master/Files/Captura%20de%20pantalla%202023-02-15%20082244.png?raw=true">
 <img alt="Coding" width="300" src="https://github.com/ErikCasas/PruebaTecnica/blob/master/Files/Captura%20de%20pantalla%202023-02-15%20082356.png?raw=true">
 <img alt="Coding" width="300" src="https://github.com/ErikCasas/PruebaTecnica/blob/master/Files/Captura%20de%20pantalla%202023-02-15%20082322.png?raw=true">
+<img  alt="Coding" width="300" src="https://github.com/ErikCasas/PruebaTecnica/blob/master/Files/Captura%20de%20pantalla%202023-02-15%20082505.png?raw=true">
+<img  alt="Coding" width="300" src="https://github.com/ErikCasas/PruebaTecnica/blob/master/Files/Captura%20de%20pantalla%202023-02-15%20082819.png?raw=true">
 <img alt="Coding" width="300" src="https://github.com/ErikCasas/PruebaTecnica/blob/master/Files/Captura%20de%20pantalla%202023-02-15%20082958.png?raw=true">
 
-<img  alt="Coding" width="300" src="https://github.com/ErikCasas/PruebaTecnica/blob/master/Files/Captura%20de%20pantalla%202023-02-15%20081756.png?raw=true">
-<img  alt="Coding" width="300" src="https://github.com/ErikCasas/PruebaTecnica/blob/master/Files/Captura%20de%20pantalla%202023-02-15%20081756.png?raw=true">
-
+</div>
 
 # Probar el proyecto
 
@@ -67,5 +68,3 @@ password: 12345
 email: maicol@osnetpr.com
 password: 12345
 
-agradezco la oprtunidad y cualquier feedback, espero el proyecto cumpla con las espectativas
-y pido disculpas por no poder presentar el proyecto deployado en la red
