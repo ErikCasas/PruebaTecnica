@@ -1,20 +1,31 @@
-# # Ecomerce-prueba-tecnica
+## Ecomerce-prueba-tecnica
 
 
 <em> # Preuba tecnica Ecommerce Supermercado  </em>
 
+Esta es una prueba Tecnica echa para la empresa Osnet, se tuvo un plazo de una semana para ser realizada, esta prueba es basada en el stack MERN 
 
-en este proyecto utilizo el stack MERN, simulando el inventario de una tienda de supermercado
+  - **M**ongo
+  - **E**xpress
+  - **R**eact
+  - **N**ode
 
-## :hammer:Funcionalidades del proyecto
+El proyecto debía ser de un inventario de supermercado, en el que tiene que ser posible, crear, actaulizar, leer y eliminar los productos, ademas de contar con manejo de usuarios que se debidiran en dos categorias: 
+  - **Master** Puede realizar todas las acciones anteriormente nombradas además de crear nuevos usuarios y modificarlos.
+  - **Read** Solamente puede ver los productos actuales en el sistema.
 
-- `Funcionalidad 1`: Se creo un sistema de logueo local con peticiones al back y verificaciones en el front- 
-- `Funcionalidad 2`: Se tiene un sistema de ruteo para los tres tipos de ususarios contemplados, no logueado, logueado y master - 
-- `Funcionalidad 3`: Se tiene un sistema de redireccionamiento que evita que usuarios no logueados o usuarios sin acceso master, accedan a ciertas rutas de funcionalidades para el master- 
+## :hammer:Entrega final y funcionalidades del proyecto
+
+- `Funcionalidad 1`: Se creo un sistema de logueo local con peticiones al back-end y verificaciones en el front-end
+img
+- `Funcionalidad 2`: Se tiene un sistema de ruteo para los tres tipos de ususarios contemplados, no logueado, logueado y master
+- `Funcionalidad 3`: Se tiene un sistema de redireccionamiento que evita que usuarios no logueados o usuarios sin acceso master, accedan a ciertas rutas de funcionalidades para el master
 - `Funcionalidad 4`: Se tiene un total de 8 formularios con distinto enfoque, tales como dejar que se cree un nuevo usuario, que un usuario de tipo read sea capaz de cambiar su información, junto con los 4 principales, que son la edición y creaciión de productos y usuarios por parte de los usuarios master- 
-- `Funcionalidad 5`: se dio prioridad al funcionamiento intuitivo, con el fin de que las funcionalidades de cada componente sean faciles de encontrar-
--  `Funcionaliad 6`: Se utilizó la tecnologia de cloudinary para que el usuario master quien tiene la capacidad de editar y crear, pueda utilizar archivos directos de su pc-
--  `Funcionalidad 7`: la pagina es en su gran mayoria de tipo responsive, eceptuando la landing page-
+- `Funcionalidad 5`: se dio prioridad al funcionamiento intuitivo, con el fin de que las funcionalidades de cada componente sean faciles de encontrar
+
+-  `Funcionaliad 6`: Se utilizó la tecnologia de cloudinary para que el usuario master quien tiene la capacidad de editar y crear, pueda utilizar archivos directos de su pc
+
+-  `Funcionalidad 7`: la pagina es en su gran mayoria de tipo responsive
 
 
 # Probar el proyecto
