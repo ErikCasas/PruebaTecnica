@@ -4,7 +4,7 @@ import axios from "axios";
 export const AuthContext = createContext();
 
 const AuthProvider = ({ children }) => {
-  const baseURL = "https://ecomerce-prueba-tecnica-production.up.railway.app";
+  const baseURL = "https://pruebatecnica-production.up.railway.app/";
 
   //estados para enviar mensajes y/o mantenerlos constates por todos los componentes
   const [user, setUser] = useState(null);
@@ -99,7 +99,7 @@ const AuthProvider = ({ children }) => {
   };
 
   /**
-   * traigo todos los productos para el home
+   * traigo todos los productos para el home q
    */
   const getAllProducts = async () => {
     try {
