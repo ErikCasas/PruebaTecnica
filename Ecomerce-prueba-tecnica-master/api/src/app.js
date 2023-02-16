@@ -16,7 +16,7 @@ app.use(morgan("dev")); //proporciona una representación detallada de la solici
  * la petición es correcta pero no se tiene acceso
  */
 app.use((req, res, next) => {
-  res.header("Access-Control-Allow-Origin", "http://localhost:3000"); // doy acceso al front);
+  res.header("Access-Control-Allow-Origin", "https://prueba-tecnica-five-sepia.vercel.app/"); // doy acceso al front);
   res.header(
     "Access-Control-Allow-Headers",
     "Origin, X-Requested-With, Content-Type, Accept"
