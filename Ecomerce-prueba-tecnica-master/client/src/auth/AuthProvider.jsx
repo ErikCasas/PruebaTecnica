@@ -4,7 +4,7 @@ import axios from "axios";
 export const AuthContext = createContext();
 
 const AuthProvider = ({ children }) => {
-  const baseURL = "https://pruebatecnica-production.up.railway.app/";
+  const baseURL = "https://pruebatecnica-production.up.railway.app";
 
   //estados para enviar mensajes y/o mantenerlos constates por todos los componentes
   const [user, setUser] = useState(null);
